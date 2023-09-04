@@ -20,6 +20,6 @@ myNumber += 3;
 typeof myNumber;
 
 // once discovered text string, convert to number.
-let myNumber = "74";
-myNumber = Number(myNumber) + 3;
+let myNumber1 = "74";
+myNumber1 = Number(myNumber1) + 3;
 

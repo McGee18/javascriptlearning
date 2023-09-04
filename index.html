@@ -84,7 +84,17 @@
         let i = 123e5; //12300000
         let j = 123e-5; //0.00123
 
+        // strings and numbers can be used - but not together. Should be kept seperate for arithmetic.
+        let l = 100;  // this is a number
+        let m = "100";  //this is a string
 
+        // + symbol if used with a string will concatenate (join otgether) rather than add.
+        let n = "100";
+        let o = "100";
+        let p = n + o;
+        alert(p);
+
+        //can use isNaN(x) to determine if variable in brackets is a number or not.
 
 
     </script>

@@ -23,3 +23,18 @@ typeof myNumber;
 let myNumber1 = "74";
 myNumber1 = Number(myNumber1) + 3;
 
+
+//simple arithmetic examples - declare variable then use to calc
+const num1 = 10;
+const num2 = 50;
+9 * num1;
+num1 ** 3;
+num2 / num1;
+
+//more complex expressions - operator precedence - same as BIDMAS order in school
+5 + 10 * 3;
+(num2 % 9) * num1;
+num2 + num1 / 8 + 2;
+
+//use parantheses to override operator precedence 
+(num2 + num1) / (8 + 2);

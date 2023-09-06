@@ -40,5 +40,24 @@ num2 + num1 / 8 + 2;
 (num2 + num1) / (8 + 2);
 
 //increment and decerement operators - repeatedly add (++) or subtract (--) to assign a variable a new value
-let num3 = 4
+let num3 = 4;
 num3++;
+
+//have to run variable twice - runs first, then on next run increments the variable.
+let num4 = 6;
+num4--;
+num4;
+
+//to increment/decrement the variable, then return the value, the operators should move to the start of the variable.
+let num5 = 10;
+++num5;
+
+//assignment operators assign a value to a variable 
+let x = 3 // x contains the value 3
+
+let y += 4; //adds value on right to the variable value on left, then returns new variable value (x = x + 4;)
+let z -= 3; //subtracts value on right from variable on left, and returns new value (x = x - 3;)
+let w *= 3; //multiplies variable value on left by the value on the right, and returns the new variable value (x = x * 3)
+let v /= 3; //divides variable on the left by value on the right and returns new variable.Number
+
+

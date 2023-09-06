@@ -60,4 +60,8 @@ let z -= 3; //subtracts value on right from variable on left, and returns new va
 let w *= 3; //multiplies variable value on left by the value on the right, and returns the new variable value (x = x * 3)
 let v /= 3; //divides variable on the left by value on the right and returns new variable.Number
 
+//example of assignment operator use
+let a = 3;
+let b = 4;
+a *= b;
 

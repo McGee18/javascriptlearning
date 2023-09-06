@@ -38,3 +38,7 @@ num2 + num1 / 8 + 2;
 
 //use parantheses to override operator precedence 
 (num2 + num1) / (8 + 2);
+
+//increment and decerement operators - repeatedly add (++) or subtract (--) to assign a variable a new value
+let num3 = 4
+num3++;

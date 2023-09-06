@@ -55,10 +55,10 @@ let num5 = 10;
 //assignment operators assign a value to a variable 
 let x = 3 // x contains the value 3
 
-let y += 4; //adds value on right to the variable value on left, then returns new variable value (x = x + 4;)
-let z -= 3; //subtracts value on right from variable on left, and returns new value (x = x - 3;)
-let w *= 3; //multiplies variable value on left by the value on the right, and returns the new variable value (x = x * 3)
-let v /= 3; //divides variable on the left by value on the right and returns new variable.Number
+// let y += 4; //adds value on right to the variable value on left, then returns new variable value (x = x + 4;)
+// let z -= 3; //subtracts value on right from variable on left, and returns new value (x = x - 3;)
+// let w *= 3; //multiplies variable value on left by the value on the right, and returns the new variable value (x = x * 3)
+// let v /= 3; //divides variable on the left by value on the right and returns new variable.Number
 
 //example of assignment operator use
 let a = 3;
